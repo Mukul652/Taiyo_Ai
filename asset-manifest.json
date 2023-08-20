@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Taiyo_Ai/static/css/main.a6cb148f.css",
+    "main.js": "/Taiyo_Ai/static/js/main.9c155246.js",
+    "static/js/787.033cde34.chunk.js": "/Taiyo_Ai/static/js/787.033cde34.chunk.js",
+    "index.html": "/Taiyo_Ai/index.html",
+    "main.a6cb148f.css.map": "/Taiyo_Ai/static/css/main.a6cb148f.css.map",
+    "main.9c155246.js.map": "/Taiyo_Ai/static/js/main.9c155246.js.map",
+    "787.033cde34.chunk.js.map": "/Taiyo_Ai/static/js/787.033cde34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6cb148f.css",
+    "static/js/main.9c155246.js"
+  ]
+}
